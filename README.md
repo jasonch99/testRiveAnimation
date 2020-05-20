@@ -1,3 +1,3 @@
 # riveapp
 
-Load a simile Rive animation.
+Load a simple Rive animation.
